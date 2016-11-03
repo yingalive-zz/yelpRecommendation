@@ -1,0 +1,1056 @@
+"","user_id","user_name","yelping_since","user_averageStars","isElite","userCountLV","review_star","business_id","rest_name","rest_stars","city","state","rest_reviewCount","full_address","category"
+"1","u 1","Michael","2008-04",3.82,"Elite",18,4,"r 393","Rocco's NY Pizzeria",4,"Las Vegas","NV",238,"10860 W Charleston Blvd
+Ste 190
+Summerlin
+Las Vegas, NV 89135","Pizza"
+"2","u 1","Michael","2008-04",3.82,"Elite",18,4,"r 3367","Bachi Burger",4,"Las Vegas","NV",2622,"470 E Windmill Ln
+Ste 100
+Southeast
+Las Vegas, NV 89123","Burgers"
+"3","u 1","Michael","2008-04",3.82,"Elite",18,5,"r 374","Amigos Tacos",4,"Las Vegas","NV",59,"7425 S Durango Dr
+Southwest
+Las Vegas, NV 89113","Mexican"
+"4","u 1","Michael","2008-04",3.82,"Elite",18,3,"r 763","Mark Rich's New York Pizza & Pasta",3,"Las Vegas","NV",139,"11710 W Charleston Blvd
+Summerlin
+Las Vegas, NV 89135","Italian, Pizza"
+"5","u 1","Michael","2008-04",3.82,"Elite",18,5,"r 370","Pho Saigon 8",3.5,"Las Vegas","NV",405,"5650 Spring Mountain Rd
+Chinatown
+Las Vegas, NV 89146","Vietnamese"
+"6","u 1","Michael","2008-04",3.82,"Elite",18,2,"r 2844","Pop's Philly Steaks",3.5,"Las Vegas","NV",408,"501 S Decatur Blvd
+Westside
+Las Vegas, NV 89107","Cheesesteaks, Sandwiches"
+"7","u 1","Michael","2008-04",3.82,"Elite",18,4,"r 4660","Tokyo Sushi House",3,"Las Vegas","NV",212,"10040 W Cheyenne Ave
+Ste 150
+Summerlin
+Las Vegas, NV 89129","Sushi Bars, Japanese"
+"8","u 1","Michael","2008-04",3.82,"Elite",18,5,"r 3908","Ping Pang Pong",3.5,"Las Vegas","NV",662,"Gold Coast Hotel & Casino
+4000 W Flamingo Rd
+Las Vegas, NV 89103","Seafood, Cantonese, Dim Sum, Chinese"
+"9","u 1","Michael","2008-04",3.82,"Elite",18,5,"r 2684","Slidin' Thru",4,"Las Vegas","NV",369,"500 S Grand Central Pkwy
+Downtown
+Las Vegas, NV 89155","Food, Burgers, Food Trucks"
+"10","u 1","Michael","2008-04",3.82,"Elite",18,5,"r 4098","Sushi Mon",3.5,"Las Vegas","NV",269,"8320 W Sahara Ave
+Ste 180
+Westside
+Las Vegas, NV 89117","Sushi Bars, Japanese"
+"11","u 1","Michael","2008-04",3.82,"Elite",18,5,"r 455","Capriotti's Sandwich Shop",4,"Las Vegas","NV",70,"Red Rock Casino Resort
+11011 W Charleston Blvd
+South Summerlin
+Las Vegas, NV 89135","Sandwiches"
+"12","u 1","Michael","2008-04",3.82,"Elite",18,2,"r 1762","Pho Hung Restaurant",3,"Las Vegas","NV",86,"5288 Spring Mountain Rd
+Ste 106
+Chinatown
+Las Vegas, NV 89146","Vietnamese, Asian Fusion"
+"13","u 1","Michael","2008-04",3.82,"Elite",18,1,"r 2279","Garduños",3,"Las Vegas","NV",116,"Palms Casino Resort
+4321 W Flamingo Rd
+Las Vegas, NV 89103","Mexican"
+"14","u 1","Michael","2008-04",3.82,"Elite",18,4,"r 1684","Familia Pizzeria",4,"Las Vegas","NV",243,"8090 S Durango Dr
+Southwest
+Las Vegas, NV 89113","Pizza"
+"15","u 1","Michael","2008-04",3.82,"Elite",18,4,"r 3512","Pho Huong Saigon",2,"Las Vegas","NV",26,"3650 S Decatur Blvd
+Chinatown
+Las Vegas, NV 89103","Vietnamese"
+"16","u 1","Michael","2008-04",3.82,"Elite",18,5,"r 3815","The Peppermill Restaurant & Fireside Lounge",4,"Las Vegas","NV",2120,"2985 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109","Bars, American (Traditional), Breakfast & Brunch, Nightlife, Lounges"
+"17","u 1","Michael","2008-04",3.82,"Elite",18,4,"r 2333","India Palace",4,"Las Vegas","NV",587,"505 E Twain Ave
+Eastside
+Las Vegas, NV 89169","Indian"
+"18","u 1","Michael","2008-04",3.82,"Elite",18,4,"r 4209","El Patron Mexican Restaurant & Oyster Bar",3.5,"Las Vegas","NV",21,"2797 S Maryland Pkwy
+Eastside
+Las Vegas, NV 89109","Mexican"
+"19","u 2","Michael","2011-01",3.16,"Elite",4,5,"r 2189","Hakkasan Restaurant",4,"Las Vegas","NV",295,"MGM Grand
+3799 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109","Cantonese, Dim Sum, Chinese"
+"20","u 2","Michael","2011-01",3.16,"Elite",4,1,"r 3776","Bacchanal Buffet",4,"Las Vegas","NV",5216,"Caesars Palace Las Vegas Hotel And Casino
+3570 Las Vegas Boulevard South
+The Strip
+Las Vegas, NV 89109","Buffets"
+"21","u 2","Michael","2011-01",3.16,"Elite",4,3,"r 554","Fiamma Trattoria & Bar",4,"Las Vegas","NV",659,"MGM Grand Hotel and Casino
+3799 Las Vegas Boulevard South
+The Strip
+Las Vegas, NV 89109","Wine Bars, Bars, Nightlife, Italian"
+"22","u 2","Michael","2011-01",3.16,"Elite",4,5,"r 4529","StripSteak",4,"Las Vegas","NV",940,"Mandalay Bay Resort & Casino
+3950 S Las Vegas Boulevard
+The Strip
+Las Vegas, NV 89119","Steakhouses, American (New)"
+"23","u 3","Thi","2009-07",3.79,"Elite",3,4,"r 316","Earl of Sandwich",4.5,"Las Vegas","NV",4687,"Planet Hollywood Resort & Casino
+3667 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109","Sandwiches"
+"24","u 3","Thi","2009-07",3.79,"Elite",3,5,"r 223","Lemongrass Café",3.5,"Las Vegas","NV",425,"8820 S Eastern Ave
+Las Vegas, NV 89123","Vietnamese"
+"25","u 3","Thi","2009-07",3.79,"Elite",3,4,"r 1394","The Buffet at Bellagio",3.5,"Las Vegas","NV",3305,"Bellagio Las Vegas
+3600 S Las Vegas Blvd
+The Strip
+Las Vegas, NV 89109","American (New), Buffets"
+"26","u 4","Sonia","2007-02",3.55,"non-Elite",4,3,"r 946","Lemongrass",3.5,"Las Vegas","NV",712,"ARIA Resort & Casino
+3737 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109","Thai"
+"27","u 4","Sonia","2007-02",3.55,"non-Elite",4,4,"r 1494","Jasmine",3.5,"Las Vegas","NV",274,"Bellagio Las Vegas
+3600 S Las Vegas Blvd
+The Strip
+Las Vegas, NV 89109","Bars, Nightlife, Chinese"
+"28","u 4","Sonia","2007-02",3.55,"non-Elite",4,3,"r 1183","Julian Serrano",4,"Las Vegas","NV",1387,"ARIA Resort & Casino
+3733 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109","Tapas Bars, Spanish"
+"29","u 4","Sonia","2007-02",3.55,"non-Elite",4,2,"r 2805","Il Mulino New York",4,"Las Vegas","NV",230,"The Forum Shops at Caesars Palace
+3500 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109",", Italian"
+"30","u 5","Nolan","2008-04",3.77,"Elite",7,5,"r 4731","The Buffet",3.5,"Las Vegas","NV",3546,"Wynn Las Vegas
+3131 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109","Buffets"
+"31","u 5","Nolan","2008-04",3.77,"Elite",7,5,"r 4787","Del Frisco's Double Eagle Steak House",4.5,"Las Vegas","NV",1098,"3925 Paradise Rd
+Eastside
+Las Vegas, NV 89169","Steakhouses"
+"32","u 5","Nolan","2008-04",3.77,"Elite",7,4,"r 4017","Triple 7 Restaurant & Microbrewery",3.5,"Las Vegas","NV",411,"Main Street Station Hotel
+200 N Main St
+Las Vegas, NV 89101","Food, American (Traditional), Breweries"
+"33","u 5","Nolan","2008-04",3.77,"Elite",7,3,"r 528","Wo Fat",3.5,"Las Vegas","NV",116,"3700 E Desert Inn Rd
+Ste 1
+Eastside
+Las Vegas, NV 89121","Chinese"
+"34","u 5","Nolan","2008-04",3.77,"Elite",7,4,"r 4736","Badger Cafe",4,"Las Vegas","NV",119,"1801 E Tropicana Ave
+Ste 8
+Eastside
+Las Vegas, NV 89119","American (New)"
+"35","u 5","Nolan","2008-04",3.77,"Elite",7,4,"r 4245","Island Flavor ",4.5,"Las Vegas","NV",896,"8090 S Durango Dr
+Ste 103
+Southwest
+Las Vegas, NV 89113","Hawaiian"
+"36","u 5","Nolan","2008-04",3.77,"Elite",7,3,"r 2897","Rub Bbq",2.5,"Las Vegas","NV",30,"3700 W Flamingo Rd
+Las Vegas, NV 89103","Barbeque"
+"37","u 6","Dan","2010-09",3.62,"Elite",4,4,"r 2245","Gangnam Asian BBQ Dining",4.5,"Las Vegas","NV",3767,"4480 Paradise Rd
+Eastside
+Las Vegas, NV 89169","Korean, Japanese, Barbeque"
+"38","u 6","Dan","2010-09",3.62,"Elite",4,4,"r 3848","Griddlecakes",3.5,"Las Vegas","NV",283,"9480 S Eastern Ave
+Las Vegas, NV 89123","Breakfast & Brunch, American (Traditional)"
+"39","u 6","Dan","2010-09",3.62,"Elite",4,3,"r 62","The Buffet At TI",2.5,"Las Vegas","NV",613,"Treasure Island
+3300 S Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109","Breakfast & Brunch, American (Traditional), Buffets"
+"40","u 6","Dan","2010-09",3.62,"Elite",4,2,"r 2964","Carnival World Buffet",3.5,"Las Vegas","NV",1394,"Rio All-Suite Hotel & Casino
+3700 W Flamingo Road
+Las Vegas, NV 89103","Buffets"
+"41","u 7","Jerry","2011-05",4.36,"Elite",6,5,"r 3019","SUSHISAMBA - Las Vegas",4,"Las Vegas","NV",1727,"3327 Las Vegas Blvd
+The Strip
+Las Vegas, NV 89109","Breakfast & Brunch, Bars, Asian Fusion, Nightlife"
+"42","u 7","Jerry","2011-05",4.36,"Elite",6,4,"r 766","THE Steak House",4,"Las Vegas","NV",454,"Circus Circus Hotel and Casino
+2880 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109","Steakhouses"
+"43","u 7","Jerry","2011-05",4.36,"Elite",6,4,"r 4577","Raku",4.5,"Las Vegas","NV",1094,"5030 Spring Mountain Rd
+Chinatown
+Las Vegas, NV 89146","Japanese"
+"44","u 7","Jerry","2011-05",4.36,"Elite",6,4,"r 826","Scarpetta",4,"Las Vegas","NV",963,"Cosmopolitan Hotel
+3708 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109",", Italian"
+"45","u 7","Jerry","2011-05",4.36,"Elite",6,5,"r 1082","Kabuto",4.5,"Las Vegas","NV",399,"5040 Spring Mountain Rd
+Ste 4
+Chinatown
+Las Vegas, NV 89146","Sushi Bars, Japanese"
+"46","u 7","Jerry","2011-05",4.36,"Elite",6,4,"r 1334","China Poblano",3,"Las Vegas","NV",1149,"3708 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109","Mexican, Chinese"
+"47","u 8","Chris","2013-10",4.58,"Elite",3,4,"r 4666","Golden Dragon Chinese Cuisine",3,"Las Vegas","NV",77,"6120 W Tropicana Ave
+Ste A1
+Las Vegas, NV 89103","Chinese"
+"48","u 8","Chris","2013-10",4.58,"Elite",3,4,"r 741","Miller's Ale House - Las Vegas",3.5,"Las Vegas","NV",453,"6683 Las Vegas Blvd S
+Southeast
+Las Vegas, NV 89119","Bars, Seafood, Nightlife, American (New), Sports Bars"
+"49","u 8","Chris","2013-10",4.58,"Elite",3,4,"r 905","Cantina Laredo",3.5,"Las Vegas","NV",345,"430 S Rampart Blvd
+Ste 110
+Westside
+Las Vegas, NV 89145","Food, Specialty Food, Mexican"
+"50","u 9","Chuck","2009-07",3.73,"Elite",10,2,"r 2765","House of Blues",3.5,"Las Vegas","NV",696,"Mandalay Bay Hotel
+3950 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89119","Arts & Entertainment, Music Venues, Hotels, Event Planning & Services, Hotels & Travel, American (New), Nightlife"
+"51","u 9","Chuck","2009-07",3.73,"Elite",10,3,"r 4549","Serendipity 3",3,"Las Vegas","NV",3781,"Caesars Palace Las Vegas Hotel And Casino
+3570 Las Vegas Boulevard South
+The Strip
+Las Vegas, NV 89109","Food, Desserts, American (Traditional)"
+"52","u 9","Chuck","2009-07",3.73,"Elite",10,4,"r 3367","Bachi Burger",4,"Las Vegas","NV",2622,"470 E Windmill Ln
+Ste 100
+Southeast
+Las Vegas, NV 89123","Burgers"
+"53","u 9","Chuck","2009-07",3.73,"Elite",10,2,"r 1516","HEXX kitchen + bar",3.5,"Las Vegas","NV",504,"Paris Las Vegas
+3655 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109","Bars, Food, Desserts, Cocktail Bars, Nightlife, American (New)"
+"54","u 9","Chuck","2009-07",3.73,"Elite",10,4,"r 2495","Ramen Sora",4,"Las Vegas","NV",924,"4490 Spring Mountain Rd
+Chinatown
+Las Vegas, NV 89102","Ramen, Japanese"
+"55","u 9","Chuck","2009-07",3.73,"Elite",10,4,"r 3565","Flour & Barley",3.5,"Las Vegas","NV",306,"3545 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109","Italian, Pizza, Gastropubs"
+"56","u 9","Chuck","2009-07",3.73,"Elite",10,5,"r 3815","The Peppermill Restaurant & Fireside Lounge",4,"Las Vegas","NV",2120,"2985 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109","Bars, American (Traditional), Breakfast & Brunch, Nightlife, Lounges"
+"57","u 9","Chuck","2009-07",3.73,"Elite",10,4,"r 2706","Hyakumi",3,"Las Vegas","NV",95,"Caesars Palace
+3570 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89136","Sushi Bars, Japanese"
+"58","u 9","Chuck","2009-07",3.73,"Elite",10,4,"r 2111","Tom's Urban",3.5,"Las Vegas","NV",761,"New York New York Las Vegas Hotel And Casino
+3790 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109","Bars, American (New), Nightlife"
+"59","u 9","Chuck","2009-07",3.73,"Elite",10,3,"r 3992","Raffles Cafe",3,"Las Vegas","NV",388,"Mandalay Bay Hotel And Casino
+3950 S Las Vegas Blvd
+The Strip
+Las Vegas, NV 89119","Cafes, American (Traditional), Diners"
+"60","u 10","Darren","2011-08",3.87,"Elite",6,4,"r 4889","Wicked Spoon",3.5,"Las Vegas","NV",4967,"The Cosmopolitan of Las Vegas
+3708 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109","Breakfast & Brunch, Buffets"
+"61","u 10","Darren","2011-08",3.87,"Elite",6,1,"r 3745","barMASA",2.5,"Las Vegas","NV",245,"ARIA Resort & Casino
+3744 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109","Sushi Bars, Japanese"
+"62","u 10","Darren","2011-08",3.87,"Elite",6,4,"r 514","L'Atelier de Joël Robuchon",4.5,"Las Vegas","NV",864,"MGM Grand Hotel and Casino
+3799 Las Vegas Boulevard South
+Eastside
+Las Vegas, NV 89109","French"
+"63","u 10","Darren","2011-08",3.87,"Elite",6,5,"r 4155","Twist by Pierre Gagnaire",4.5,"Las Vegas","NV",217,"Mandarin Oriental
+3752 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89158","American (New), French"
+"64","u 10","Darren","2011-08",3.87,"Elite",6,4,"r 1160","Shibuya",4,"Las Vegas","NV",725,"MGM Grand Hotel and Casino
+3799 Las Vegas Boulevard South
+Eastside
+Las Vegas, NV 89109","Japanese"
+"65","u 10","Darren","2011-08",3.87,"Elite",6,4,"r 3122","Sage",4,"Las Vegas","NV",880,"ARIA Resort & Casino
+3732 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109","American (New), Mediterranean"
+"66","u 11","Niki","2014-12",3.96,"non-Elite",7,4,"r 495","Brooklyn Bowl",3.5,"Las Vegas","NV",411,"3545 Las Vegas Blvd S
+Ste 22
+The Strip
+Las Vegas, NV 89109","Arts & Entertainment, Music Venues, Nightlife, Bowling, Active Life, American (New)"
+"67","u 11","Niki","2014-12",3.96,"non-Elite",7,3,"r 4794","La Pizza",3.5,"Las Vegas","NV",47,"Paris Las Vegas
+3655 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109","Pizza, Food Stands"
+"68","u 11","Niki","2014-12",3.96,"non-Elite",7,2,"r 2462","Toby Keith's I Love This Bar & Grill",3,"Las Vegas","NV",475,"Harrah's Las Vegas Hotel & Casino
+3475 Las Vegas Boulevard South
+The Strip
+Las Vegas, NV 89109","American (Traditional)"
+"69","u 11","Niki","2014-12",3.96,"non-Elite",7,4,"r 3410","Hash House A Go Go",4,"Las Vegas","NV",3577,"The LINQ Hotel & Casino
+3535 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109","Breakfast & Brunch, American (New)"
+"70","u 11","Niki","2014-12",3.96,"non-Elite",7,5,"r 470","Mon Ami Gabi",4,"Las Vegas","NV",6200,"3655 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109","Breakfast & Brunch, Steakhouses, French"
+"71","u 11","Niki","2014-12",3.96,"non-Elite",7,4,"r 3580","Le Village Buffet",3.5,"Las Vegas","NV",1788,"Paris Las Vegas Hotel & Casino
+3655 Las Vegas Boulevard South
+The Strip
+Las Vegas, NV 89109","Buffets"
+"72","u 11","Niki","2014-12",3.96,"non-Elite",7,5,"r 1506","Mesa Grill",4,"Las Vegas","NV",2643,"Caesars Palace Las Vegas Hotel And Casino
+3570 Las Vegas Boulevard South
+The Strip
+Las Vegas, NV 89109","Southern"
+"73","u 12","Ryan","2010-04",3.94,"non-Elite",20,4,"r 2884","The Buffet at Monte Carlo",2.5,"Las Vegas","NV",378,"Monte Carlo Hotel and Casino
+3770 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109","American (Traditional), Buffets"
+"74","u 12","Ryan","2010-04",3.94,"non-Elite",20,2,"r 4152","The Buffet",2.5,"Las Vegas","NV",138,"Stratosphere
+2000 S Las Vegas Blvd
+The Strip
+Las Vegas, NV 89104","Buffets"
+"75","u 12","Ryan","2010-04",3.94,"non-Elite",20,4,"r 470","Mon Ami Gabi",4,"Las Vegas","NV",6200,"3655 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109","Breakfast & Brunch, Steakhouses, French"
+"76","u 12","Ryan","2010-04",3.94,"non-Elite",20,4,"r 4197","Bistro Buffet",3,"Las Vegas","NV",384,"Palms Casino Resort
+4321 W Flamingo Rd
+Las Vegas, NV 89103","Buffets"
+"77","u 12","Ryan","2010-04",3.94,"non-Elite",20,1,"r 3787","Spice Market Buffet",3,"Las Vegas","NV",1498,"Planet Hollywood Las Vegas Resort & Casino
+3667 Las Vegas Boulevard South
+The Strip
+Las Vegas, NV 89109","Buffets"
+"78","u 12","Ryan","2010-04",3.94,"non-Elite",20,5,"r 2050","PublicUs",4,"Las Vegas","NV",354,"1126 Fremont St
+Downtown
+Las Vegas, NV 89101","Food, Coffee & Tea, Cafes, American (New)"
+"79","u 12","Ryan","2010-04",3.94,"non-Elite",20,2,"r 2352","Harley-Davidson Las Vegas Cafe",3,"Las Vegas","NV",279,"3725 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109","Burgers, American (Traditional), Barbeque"
+"80","u 12","Ryan","2010-04",3.94,"non-Elite",20,4,"r 2974","Pho Thanh Huong",4,"Las Vegas","NV",311,"1131 E Tropicana Ave
+Ste D
+Southeast
+Las Vegas, NV 89119","Vietnamese"
+"81","u 12","Ryan","2010-04",3.94,"non-Elite",20,4,"r 71","Toros Cantina & Gaming",3.5,"Las Vegas","NV",221,"11760 W Charleston Blvd
+Summerlin
+Las Vegas, NV 89138","Mexican"
+"82","u 12","Ryan","2010-04",3.94,"non-Elite",20,5,"r 493","Seasons Buffet",3.5,"Las Vegas","NV",240,"Silverton Casino Hotel
+3333 Blue Diamond Rd
+Southwest
+Las Vegas, NV 89139","Buffets"
+"83","u 12","Ryan","2010-04",3.94,"non-Elite",20,3,"r 851","Cravings Buffet",3.5,"Las Vegas","NV",1054,"The Mirage Hotel & Casino
+3400 S Las Vegas Blvd
+The Strip
+Las Vegas, NV 89109","American (Traditional), American (New), Buffets"
+"84","u 12","Ryan","2010-04",3.94,"non-Elite",20,4,"r 1108","Public House",3,"Las Vegas","NV",174,"Luxor Las Vegas
+3900 S Las Vegas Blvd
+The Strip
+Las Vegas, NV 89119","Bars, American (Traditional), Food, Beer, Wine & Spirits, Nightlife, Sports Bars"
+"85","u 12","Ryan","2010-04",3.94,"non-Elite",20,3,"r 3843","Rainforest Café",2.5,"Las Vegas","NV",454,"3799 Las Vegas Blvd
+The Strip
+Las Vegas, NV 89109","American (Traditional)"
+"86","u 12","Ryan","2010-04",3.94,"non-Elite",20,5,"r 3392","Avenue Cafe",3,"Las Vegas","NV",168,"M G M Grand Hotel And Casino
+3799 Las Vegas Boulevard South
+Eastside
+Las Vegas, NV 89109","Bars, American (Traditional), Nightlife"
+"87","u 12","Ryan","2010-04",3.94,"non-Elite",20,3,"r 959","The Cafe at Monte Carlo",2.5,"Las Vegas","NV",141,"Monte Carlo Hotel and Casino
+3770 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109","Sandwiches, American (Traditional), Cafes"
+"88","u 12","Ryan","2010-04",3.94,"non-Elite",20,5,"r 493","Seasons Buffet",3.5,"Las Vegas","NV",240,"Silverton Casino Hotel
+3333 Blue Diamond Rd
+Southwest
+Las Vegas, NV 89139","Buffets"
+"89","u 12","Ryan","2010-04",3.94,"non-Elite",20,4,"r 1243","MGM Grand Buffet",2.5,"Las Vegas","NV",830,"MGM Grand
+3799 Las Vegas Blvd S
+Eastside
+Las Vegas, NV 89109","American (Traditional), Buffets"
+"90","u 12","Ryan","2010-04",3.94,"non-Elite",20,4,"r 4197","Bistro Buffet",3,"Las Vegas","NV",384,"Palms Casino Resort
+4321 W Flamingo Rd
+Las Vegas, NV 89103","Buffets"
+"91","u 12","Ryan","2010-04",3.94,"non-Elite",20,4,"r 1243","MGM Grand Buffet",2.5,"Las Vegas","NV",830,"MGM Grand
+3799 Las Vegas Blvd S
+Eastside
+Las Vegas, NV 89109","American (Traditional), Buffets"
+"92","u 12","Ryan","2010-04",3.94,"non-Elite",20,4,"r 2245","Gangnam Asian BBQ Dining",4.5,"Las Vegas","NV",3767,"4480 Paradise Rd
+Eastside
+Las Vegas, NV 89169","Korean, Japanese, Barbeque"
+"93","u 13","Christine","2011-11",4.26,"Elite",8,4,"r 4839","Le Thai",4,"Las Vegas","NV",1024,"523 Fremont St
+Downtown
+Las Vegas, NV 89101","Thai, Beer Gardens, Nightlife"
+"94","u 13","Christine","2011-11",4.26,"Elite",8,4,"r 1087","Du-Par's Restaurant and Bakery",4,"Las Vegas","NV",665,"Golden Gate Casino
+1 Fremont St
+Downtown
+Las Vegas, NV 89101","Bakeries, Food, Breakfast & Brunch, American (Traditional)"
+"95","u 13","Christine","2011-11",4.26,"Elite",8,5,"r 470","Mon Ami Gabi",4,"Las Vegas","NV",6200,"3655 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109","Breakfast & Brunch, Steakhouses, French"
+"96","u 13","Christine","2011-11",4.26,"Elite",8,4,"r 2475","Anthony & Marios Broadway Pizzeria",4,"Las Vegas","NV",206,"840 S Rancho Dr
+Downtown
+Las Vegas, NV 89106","Italian, Pizza, Salad"
+"97","u 13","Christine","2011-11",4.26,"Elite",8,5,"r 2563","Beijing Noodle Cafe",4,"Las Vegas","NV",179,"4130 S Sandhill Rd
+Eastside
+Las Vegas, NV 89121","Chinese"
+"98","u 13","Christine","2011-11",4.26,"Elite",8,4,"r 2739","Herbs & Rye",4,"Las Vegas","NV",779,"3713 W Sahara Ave
+Westside
+Las Vegas, NV 89102","Bars, Cocktail Bars, Nightlife, Italian, Steakhouses"
+"99","u 13","Christine","2011-11",4.26,"Elite",8,4,"r 4889","Wicked Spoon",3.5,"Las Vegas","NV",4967,"The Cosmopolitan of Las Vegas
+3708 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109","Breakfast & Brunch, Buffets"
+"100","u 13","Christine","2011-11",4.26,"Elite",8,4,"r 2726","Bar+Bistro @ The Arts Factory",3.5,"Las Vegas","NV",342,"107 E Charleston Blvd
+Ste 155
+Downtown
+Las Vegas, NV 89104","Breakfast & Brunch, American (New)"
+"101","u 14","Michael","2011-12",3.83,"Elite",4,5,"r 1661","Omelet House",4.5,"Las Vegas","NV",703,"2160 W Charleston Blvd
+Downtown
+Las Vegas, NV 89102","Breakfast & Brunch, American (Traditional)"
+"102","u 14","Michael","2011-12",3.83,"Elite",4,3,"r 316","Earl of Sandwich",4.5,"Las Vegas","NV",4687,"Planet Hollywood Resort & Casino
+3667 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109","Sandwiches"
+"103","u 14","Michael","2011-12",3.83,"Elite",4,4,"r 2562","Rivas Mexican Grill",4.5,"Las Vegas","NV",47,"5750 E Sahara Ave
+Ste 108
+Sunrise
+Las Vegas, NV 89142","Mexican"
+"104","u 14","Michael","2011-12",3.83,"Elite",4,5,"r 4370","Baja Bar & Grill",4.5,"Las Vegas","NV",141,"4755 S Maryland Pkwy
+University
+Las Vegas, NV 89119","Mexican"
+"105","u 15","Raymond","2013-07",3.65,"non-Elite",12,4,"r 3830","Cucina by Wolfgang Puck",4,"Las Vegas","NV",567,"3720 Las Vegas Blvd
+The Strip
+Las Vegas, NV 89158",", Pizza, Italian"
+"106","u 15","Raymond","2013-07",3.65,"non-Elite",12,3,"r 1727","Courtyard Cafe",3,"Las Vegas","NV",138,"The Orleans Hotel and Casino
+4500 W Tropicana Ave
+Las Vegas, NV 89103","American (Traditional), Sandwiches"
+"107","u 15","Raymond","2013-07",3.65,"non-Elite",12,3,"r 4636","Burger Bar",4,"Las Vegas","NV",2266,"Mandalay Bay Hotel & Casino
+3930 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109","Burgers, Bars, American (New), Nightlife"
+"108","u 15","Raymond","2013-07",3.65,"non-Elite",12,4,"r 4855","Earl of Sandwich",3,"Las Vegas","NV",84,"Caesars Palace
+3570 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109","Sandwiches"
+"109","u 15","Raymond","2013-07",3.65,"non-Elite",12,2,"r 4033","La Gloria",2.5,"Las Vegas","NV",37,"Caesar's Forum Food Ct
+3570 S Las Vegas Blvd
+The Strip
+Las Vegas, NV 89109","Mexican"
+"110","u 15","Raymond","2013-07",3.65,"non-Elite",12,5,"r 1185","Jean Philippe Patisserie",4,"Las Vegas","NV",1004,"Bellagio Las Vegas
+3600 S Las Vegas Blvd
+The Strip
+Las Vegas, NV 89109","Food, Desserts, Coffee & Tea, Cafes"
+"111","u 15","Raymond","2013-07",3.65,"non-Elite",12,2,"r 1203","BK Whopper Bar",2.5,"Las Vegas","NV",43,"Rio All-Suite Hotel & Casino
+3700 W Flamingo Rd
+Las Vegas, NV 89103","Fast Food"
+"112","u 15","Raymond","2013-07",3.65,"non-Elite",12,2,"r 4106","Pho Da Nang Vietnamese Kitchen",3,"Las Vegas","NV",67,"3700 W Flamingo Rd
+Las Vegas, NV 89103","Vietnamese"
+"113","u 15","Raymond","2013-07",3.65,"non-Elite",12,3,"r 825","Smashburger",3.5,"Las Vegas","NV",34,"3570 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109","Burgers"
+"114","u 15","Raymond","2013-07",3.65,"non-Elite",12,3,"r 243","KJ Kitchen",3.5,"Las Vegas","NV",253,"5960 Spring Mountain Rd
+Chinatown
+Las Vegas, NV 89146","Chinese"
+"115","u 15","Raymond","2013-07",3.65,"non-Elite",12,3,"r 2964","Carnival World Buffet",3.5,"Las Vegas","NV",1394,"Rio All-Suite Hotel & Casino
+3700 W Flamingo Road
+Las Vegas, NV 89103","Buffets"
+"116","u 15","Raymond","2013-07",3.65,"non-Elite",12,2,"r 2826","Big Wong Restaurant",4,"Las Vegas","NV",638,"5040 Spring Mountain Rd
+Chinatown
+Las Vegas, NV 89146","Asian Fusion, Chinese"
+"117","u 16","Alyssa","2010-10",4.5,"Elite",4,5,"r 2664","Capo's Italian Cuisine",4,"Las Vegas","NV",730,"5675 W Sahara Ave
+Westside
+Las Vegas, NV 89146",", Italian"
+"118","u 16","Alyssa","2010-10",4.5,"Elite",4,5,"r 3277","Public School 702",3.5,"Las Vegas","NV",698,"1850 Festival Plaza Dr
+South Summerlin
+Las Vegas, NV 89135","Nightlife, Gastropubs, American (New), Bars"
+"119","u 16","Alyssa","2010-10",4.5,"Elite",4,5,"r 2913","Soho SushiBurrito",4.5,"Las Vegas","NV",391,"2600 W Sahara Ave
+Ste 115
+Las Vegas, NV 89102","Asian Fusion, Mexican, Japanese"
+"120","u 16","Alyssa","2010-10",4.5,"Elite",4,5,"r 1632","Urban Turban",4,"Las Vegas","NV",391,"3900 Paradise Rd
+Ste G
+Eastside
+Las Vegas, NV 89169","Tapas Bars, Indian"
+"121","u 17","Cami","2012-08",3.56,"Elite",6,2,"r 4731","The Buffet",3.5,"Las Vegas","NV",3546,"Wynn Las Vegas
+3131 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109","Buffets"
+"122","u 17","Cami","2012-08",3.56,"Elite",6,4,"r 3410","Hash House A Go Go",4,"Las Vegas","NV",3577,"The LINQ Hotel & Casino
+3535 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109","Breakfast & Brunch, American (New)"
+"123","u 17","Cami","2012-08",3.56,"Elite",6,5,"r 43","Cafe Cortez",3.5,"Las Vegas","NV",78,"600 E Fremont St
+Downtown
+Las Vegas, NV 89101","Cafes"
+"124","u 17","Cami","2012-08",3.56,"Elite",6,4,"r 2200","Ports O' Call Buffet",3,"Las Vegas","NV",147,"Gold Coast Hotel & Casino
+4000 W Flamingo Rd
+Las Vegas, NV 89103","Buffets"
+"125","u 17","Cami","2012-08",3.56,"Elite",6,4,"r 4889","Wicked Spoon",3.5,"Las Vegas","NV",4967,"The Cosmopolitan of Las Vegas
+3708 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109","Breakfast & Brunch, Buffets"
+"126","u 17","Cami","2012-08",3.56,"Elite",6,5,"r 316","Earl of Sandwich",4.5,"Las Vegas","NV",4687,"Planet Hollywood Resort & Casino
+3667 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109","Sandwiches"
+"127","u 18","Carmine","2010-06",2.83,"Elite",6,5,"r 572","ProteinHouse",3.5,"Las Vegas","NV",298,"9555 S Eastern Ave
+Ste 125
+Southeast
+Las Vegas, NV 89123","Food, Burgers, Juice Bars & Smoothies, Salad"
+"128","u 18","Carmine","2010-06",2.83,"Elite",6,5,"r 1150","Leoné Café",4,"Las Vegas","NV",381,"400 S Rampart Blvd
+Ste 165
+Westside
+Las Vegas, NV 89144","Breakfast & Brunch, Cafes"
+"129","u 18","Carmine","2010-06",2.83,"Elite",6,3,"r 3241","Casa Di Amore",4.5,"Las Vegas","NV",505,"2850 E Tropicana Ave
+Eastside
+Las Vegas, NV 89121",", American (New), Italian"
+"130","u 18","Carmine","2010-06",2.83,"Elite",6,1,"r 1902","Teriyaki Boy Healthy Grill",3,"Las Vegas","NV",106,"9055 S Eastern Ave
+Ste 1-B
+Southeast
+Las Vegas, NV 89123","Fast Food, Asian Fusion"
+"131","u 18","Carmine","2010-06",2.83,"Elite",6,3,"r 1766","Twin Peaks",3.5,"Las Vegas","NV",259,"3717 Las Vegas Blvd.
+Ste 285
+The Strip
+Las Vegas, NV 89109","Bars, American (Traditional), Nightlife, American (New), Sports Bars"
+"132","u 18","Carmine","2010-06",2.83,"Elite",6,3,"r 2273","Yard House Town Square",4,"Las Vegas","NV",1032,"6593 Las Vegas Blvd S
+Southeast
+Las Vegas, NV 89119","Vegetarian, Bars, American (New), Nightlife"
+"133","u 19","Joe","2016-04",4,"Elite",3,3,"r 3716","Giada",3.5,"Las Vegas","NV",1751,"The Cromwell Las Vegas Resort & Casino
+3595 Las Vegas Blvd South
+The Strip
+Las Vegas, NV 89109",", Italian"
+"134","u 19","Joe","2016-04",4,"Elite",3,4,"r 2800","Gordon Ramsay Steak",4,"Las Vegas","NV",2441,"Paris Las Vegas Hotel & Casino
+3655 Las Vegas Boulevard South
+The Strip
+Las Vegas, NV 89109","Steakhouses"
+"135","u 19","Joe","2016-04",4,"Elite",3,5,"r 3873","Sinatra",4,"Las Vegas","NV",396,"3131 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109",", Italian"
+"136","u 20","Debora","2008-01",3.86,"non-Elite",11,4,"r 1183","Julian Serrano",4,"Las Vegas","NV",1387,"ARIA Resort & Casino
+3733 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109","Tapas Bars, Spanish"
+"137","u 20","Debora","2008-01",3.86,"non-Elite",11,5,"r 3948","Ellis Island Casino & Brewery",4,"Las Vegas","NV",1693,"4178 Koval Ln
+Eastside
+Las Vegas, NV 89109","Arts & Entertainment, American (Traditional), Food, Breweries, Casinos"
+"138","u 20","Debora","2008-01",3.86,"non-Elite",11,4,"r 4731","The Buffet",3.5,"Las Vegas","NV",3546,"Wynn Las Vegas
+3131 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109","Buffets"
+"139","u 20","Debora","2008-01",3.86,"non-Elite",11,3,"r 3992","Raffles Cafe",3,"Las Vegas","NV",388,"Mandalay Bay Hotel And Casino
+3950 S Las Vegas Blvd
+The Strip
+Las Vegas, NV 89119","Cafes, American (Traditional), Diners"
+"140","u 20","Debora","2008-01",3.86,"non-Elite",11,3,"r 514","L'Atelier de Joël Robuchon",4.5,"Las Vegas","NV",864,"MGM Grand Hotel and Casino
+3799 Las Vegas Boulevard South
+Eastside
+Las Vegas, NV 89109","French"
+"141","u 20","Debora","2008-01",3.86,"non-Elite",11,3,"r 1394","The Buffet at Bellagio",3.5,"Las Vegas","NV",3305,"Bellagio Las Vegas
+3600 S Las Vegas Blvd
+The Strip
+Las Vegas, NV 89109","American (New), Buffets"
+"142","u 20","Debora","2008-01",3.86,"non-Elite",11,3,"r 60","Mr. Lucky's 24-7",3.5,"Las Vegas","NV",691,"Hard Rock Hotel & Casino
+4455 Paradise Rd
+Eastside
+Las Vegas, NV 89169","American (Traditional), Diners"
+"143","u 20","Debora","2008-01",3.86,"non-Elite",11,4,"r 2284","Carnegie",3,"Las Vegas","NV",793,"The Mirage Hotel & Casino
+3400 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109","Delis, Sandwiches"
+"144","u 20","Debora","2008-01",3.86,"non-Elite",11,5,"r 795","Firefly",4.5,"Las Vegas","NV",1357,"3900 Paradise Rd
+Eastside
+Las Vegas, NV 89169","Tapas/Small Plates, Tapas Bars"
+"145","u 20","Debora","2008-01",3.86,"non-Elite",11,4,"r 4293","Todd English P.U.B.",3.5,"Las Vegas","NV",1233,"The Shops at Crystals ARIA Las Vegas
+3720 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109","Bars, Food, Beer, Wine & Spirits, Nightlife, Gastropubs"
+"146","u 20","Debora","2008-01",3.86,"non-Elite",11,4,"r 470","Mon Ami Gabi",4,"Las Vegas","NV",6200,"3655 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109","Breakfast & Brunch, Steakhouses, French"
+"147","u 21","Rothman","2013-07",3.6,"Elite",4,5,"r 2411","China Wan Wan",4,"Las Vegas","NV",105,"6510 Boulder Hwy
+Ste 104
+Southeast
+Las Vegas, NV 89122","Seafood, Fast Food, Chinese"
+"148","u 21","Rothman","2013-07",3.6,"Elite",4,4,"r 4668","Paymon's Mediterranean Cafe & Lounge",4,"Las Vegas","NV",452,"4147 S Maryland Pkwy
+Eastside
+Las Vegas, NV 89119","Greek, Vegetarian, Mediterranean"
+"149","u 21","Rothman","2013-07",3.6,"Elite",4,3,"r 2396","F Pigalle",4,"Las Vegas","NV",83,"508 E Fremont St
+Downtown
+Las Vegas, NV 89101","Bars, Fondue, Cocktail Bars, Nightlife, Lounges"
+"150","u 21","Rothman","2013-07",3.6,"Elite",4,5,"r 1215","Japanese Curry Zen",4.5,"Las Vegas","NV",615,"5020 Spring Mountain Rd
+Ste 1
+Chinatown
+Las Vegas, NV 89146","Japanese"
+"151","u 22","cora","2007-12",3.9,"Elite",3,4,"r 3436","Daniel Boulud Brasserie",4,"Las Vegas","NV",220,"Wynn Las Vegas
+3131 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89136","French"
+"152","u 22","cora","2007-12",3.9,"Elite",3,4,"r 577","Drugstore Cafe",3.5,"Las Vegas","NV",148,"3131 Las Vegas Blvd. South
+The Strip
+Las Vegas, NV 89109","Cafes"
+"153","u 22","cora","2007-12",3.9,"Elite",3,3,"r 2043","Tom Colicchio's Craftsteak",4,"Las Vegas","NV",1842,"MGM Grand Hotel and Casino
+3799 Las Vegas Boulevard South
+Eastside
+Las Vegas, NV 89109","Steakhouses, American (New)"
+"154","u 23","Jenn","2010-05",3.45,"non-Elite",12,5,"r 1506","Mesa Grill",4,"Las Vegas","NV",2643,"Caesars Palace Las Vegas Hotel And Casino
+3570 Las Vegas Boulevard South
+The Strip
+Las Vegas, NV 89109","Southern"
+"155","u 23","Jenn","2010-05",3.45,"non-Elite",12,5,"r 3442","Shake Shack",4,"Las Vegas","NV",1818,"New York New York Hotel & Casino
+3790 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109","Burgers, American (New)"
+"156","u 23","Jenn","2010-05",3.45,"non-Elite",12,3,"r 4226","Yardbird Southern Table & Bar",4,"Las Vegas","NV",1012,"The Venetian
+3355 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109","American (New), Southern"
+"157","u 23","Jenn","2010-05",3.45,"non-Elite",12,4,"r 4020","Ruth's Chris Steak House",4,"Las Vegas","NV",240,"Harrah's Las Vegas Hotel & Casino
+3475 Las Vegas Boulevard South
+The Strip
+Las Vegas, NV 89109","Steakhouses"
+"158","u 23","Jenn","2010-05",3.45,"non-Elite",12,3,"r 1378","Culinary Dropout",4,"Las Vegas","NV",587,"Hard Rock Hotel Casino
+4455 Paradise Rd
+Eastside
+Las Vegas, NV 89169","Fondue, Bars, American (New), Nightlife"
+"159","u 23","Jenn","2010-05",3.45,"non-Elite",12,1,"r 470","Mon Ami Gabi",4,"Las Vegas","NV",6200,"3655 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109","Breakfast & Brunch, Steakhouses, French"
+"160","u 23","Jenn","2010-05",3.45,"non-Elite",12,1,"r 3492","STK Las Vegas",4,"Las Vegas","NV",1091,"The Cosmopolitan of Las Vegas
+3708 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109","Bars, American (New), Cocktail Bars, Nightlife, Steakhouses"
+"161","u 23","Jenn","2010-05",3.45,"non-Elite",12,1,"r 3761","Great Steak",2,"Las Vegas","NV",66,"McCarran International Airport - Zone 4 at A Gates
+Southeast
+Las Vegas, NV 89119","Cheesesteaks, Sandwiches"
+"162","u 23","Jenn","2010-05",3.45,"non-Elite",12,4,"r 2043","Tom Colicchio's Craftsteak",4,"Las Vegas","NV",1842,"MGM Grand Hotel and Casino
+3799 Las Vegas Boulevard South
+Eastside
+Las Vegas, NV 89109","Steakhouses, American (New)"
+"163","u 23","Jenn","2010-05",3.45,"non-Elite",12,2,"r 2716","Las Vegas Chophouse & Brewery",3,"Las Vegas","NV",126,"McCarran International Airport
+1198-1000 Sir Patrick Ave
+Southeast
+Las Vegas, NV 89119","Nightlife, Bars, Steakhouses, Sports Bars"
+"164","u 23","Jenn","2010-05",3.45,"non-Elite",12,5,"r 2043","Tom Colicchio's Craftsteak",4,"Las Vegas","NV",1842,"MGM Grand Hotel and Casino
+3799 Las Vegas Boulevard South
+Eastside
+Las Vegas, NV 89109","Steakhouses, American (New)"
+"165","u 23","Jenn","2010-05",3.45,"non-Elite",12,3,"r 4076","Bobby's Burger Palace",3.5,"Las Vegas","NV",619,"3750 South Las Vegas Blvd
+The Strip
+Las Vegas, NV 89109","Burgers, American (Traditional), Salad"
+"166","u 24","Philip","2010-12",4.03,"Elite",7,3,"r 4427","Nathan's Famous",2.5,"Las Vegas","NV",76,"MGM Hotel & Casino Food Court
+3799 Las Vegas Blvd S
+Eastside
+Las Vegas, NV 89109","Hot Dogs"
+"167","u 24","Philip","2010-12",4.03,"Elite",7,4,"r 4636","Burger Bar",4,"Las Vegas","NV",2266,"Mandalay Bay Hotel & Casino
+3930 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109","Burgers, Bars, American (New), Nightlife"
+"168","u 24","Philip","2010-12",4.03,"Elite",7,4,"r 3410","Hash House A Go Go",4,"Las Vegas","NV",3577,"The LINQ Hotel & Casino
+3535 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109","Breakfast & Brunch, American (New)"
+"169","u 24","Philip","2010-12",4.03,"Elite",7,1,"r 2986","America",3,"Las Vegas","NV",370,"3790 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109","Breakfast & Brunch, American (Traditional), American (New)"
+"170","u 24","Philip","2010-12",4.03,"Elite",7,4,"r 3979","Makino",3.5,"Las Vegas","NV",215,"775 S Grand Central Pkwy
+Ste 1301
+Downtown
+Las Vegas, NV 89106","Buffets, Japanese"
+"171","u 24","Philip","2010-12",4.03,"Elite",7,4,"r 3088","Greenberg's Deli",4,"Las Vegas","NV",228,"New York New York Hotel
+3790 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89136","Delis, Pizza, Sandwiches"
+"172","u 24","Philip","2010-12",4.03,"Elite",7,5,"r 316","Earl of Sandwich",4.5,"Las Vegas","NV",4687,"Planet Hollywood Resort & Casino
+3667 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109","Sandwiches"
+"173","u 25","Iris","2011-12",3.58,"Elite",9,4,"r 4761","Mr Eat'z",3.5,"Las Vegas","NV",44,"6386 W Lake Mead Blvd
+Las Vegas, NV 89108","Pizza"
+"174","u 25","Iris","2011-12",3.58,"Elite",9,5,"r 658","Abyssinia Ethiopian Restaurant",3.5,"Las Vegas","NV",69,"4780 W Tropicana Ave
+Ste 108
+Las Vegas, NV 89103","Ethiopian"
+"175","u 25","Iris","2011-12",3.58,"Elite",9,4,"r 3595","Aloha Kitchen & Bar",3.5,"Las Vegas","NV",363,"2605 S Decatur Blvd
+Ste 109
+Westside
+Las Vegas, NV 89102","Nightlife, Bars, Karaoke, Hawaiian"
+"176","u 25","Iris","2011-12",3.58,"Elite",9,5,"r 4790","Veranda",4,"Las Vegas","NV",347,"Four Seasons Hotel
+3950 S Las Vegas Blvd
+The Strip
+Las Vegas, NV 89109","Nightlife, Breakfast & Brunch, Italian, Bars"
+"177","u 25","Iris","2011-12",3.58,"Elite",9,5,"r 1912","Echo & Rig",4.5,"Las Vegas","NV",1226,"440 S Rampart Blvd
+Westside
+Las Vegas, NV 89145","Steakhouses"
+"178","u 25","Iris","2011-12",3.58,"Elite",9,5,"r 2721","Wine 5 Cafe",4.5,"Las Vegas","NV",214,"3250 N Tenaya Ave
+Ste 110
+Northwest
+Las Vegas, NV 89129","Food, Specialty Food, American (New), African"
+"179","u 25","Iris","2011-12",3.58,"Elite",9,1,"r 2455","PT's",3,"Las Vegas","NV",34,"6610 S Fort Apache Ave
+Spring Valley
+Las Vegas, NV 89148","Bars, Pubs, Nightlife, American (New), Sports Bars"
+"180","u 25","Iris","2011-12",3.58,"Elite",9,4,"r 1814","Mimi's Cafe",3,"Las Vegas","NV",163,"1121 S Fort Apache
+Westside
+Las Vegas, NV 89117","Breakfast & Brunch, American (Traditional)"
+"181","u 25","Iris","2011-12",3.58,"Elite",9,3,"r 2455","PT's",3,"Las Vegas","NV",34,"6610 S Fort Apache Ave
+Spring Valley
+Las Vegas, NV 89148","Bars, Pubs, Nightlife, American (New), Sports Bars"
+"182","u 26","Kenny","2013-12",4.11,"Elite",7,5,"r 4623","Lucille's Smokehouse Bar-B-Que",3.5,"Las Vegas","NV",387,"11011 W Charleston Blvd
+Summerlin
+Las Vegas, NV 89135","American (Traditional), Barbeque"
+"183","u 26","Kenny","2013-12",4.11,"Elite",7,4,"r 3870","Prommares Thai Food",4,"Las Vegas","NV",176,"6362 W Sahara Ave
+Westside
+Las Vegas, NV 89146","Thai"
+"184","u 26","Kenny","2013-12",4.11,"Elite",7,5,"r 1525","Dog Haus",4.5,"Las Vegas","NV",112,"4480 Paradise Rd
+Eastside
+Las Vegas, NV 89169","Food, Burgers, Hot Dogs, Desserts"
+"185","u 26","Kenny","2013-12",4.11,"Elite",7,4,"r 3198","Lindo Michoacan",3.5,"Las Vegas","NV",304,"10082 W Flamingo Rd
+Spring Valley
+Las Vegas, NV 89147","Mexican"
+"186","u 26","Kenny","2013-12",4.11,"Elite",7,5,"r 4423","CRAVE Restaurant",3,"Las Vegas","NV",434,"10970 Rosemary Park Dr
+South Summerlin
+Las Vegas, NV 89135","Sushi Bars, American (New), Gluten-Free"
+"187","u 26","Kenny","2013-12",4.11,"Elite",7,5,"r 4404","FireRock Steakhouse Las Vegas",3.5,"Las Vegas","NV",376,"5990 Centennial Center Blvd
+Centennial
+Las Vegas, NV 89149","Seafood, Steakhouses"
+"188","u 26","Kenny","2013-12",4.11,"Elite",7,4,"r 1254","TGI Fridays",2.5,"Las Vegas","NV",125,"Gold Coast Casino
+4000 W Flamingo Rd
+Las Vegas, NV 89103","American (Traditional)"
+"189","u 27","Cody","2010-11",4.04,"Elite",3,5,"r 4521","Doña Maria Tamales Restaurant",3.5,"Las Vegas","NV",177,"910 Las Vegas Blvd S
+Downtown
+Las Vegas, NV 89101","Mexican"
+"190","u 27","Cody","2010-11",4.04,"Elite",3,5,"r 2601","Ellis Island Cafe",4,"Las Vegas","NV",368,"4178 Koval Ln
+Eastside
+Las Vegas, NV 89109","American (Traditional)"
+"191","u 27","Cody","2010-11",4.04,"Elite",3,5,"r 3948","Ellis Island Casino & Brewery",4,"Las Vegas","NV",1693,"4178 Koval Ln
+Eastside
+Las Vegas, NV 89109","Arts & Entertainment, American (Traditional), Food, Breweries, Casinos"
+"192","u 28","Kelsey","2014-12",3.75,"Elite",4,4,"r 3572","Pizza Company",4,"Las Vegas","NV",119,"2275 E Sunset Rd
+Southeast
+Las Vegas, NV 89119","Pizza"
+"193","u 28","Kelsey","2014-12",3.75,"Elite",4,5,"r 2902","Johnny Vegas Grill",4.5,"Las Vegas","NV",65,"Inside Mr G's Pub
+3342 S Sandhill Rd
+Eastside
+Las Vegas, NV 89121","Burgers, Pizza, Chicken Wings"
+"194","u 28","Kelsey","2014-12",3.75,"Elite",4,5,"r 4433","Los Huicholes",4.5,"Las Vegas","NV",38,"546 N Eastern Ave
+Ste 100
+Las Vegas, NV 89101","Mexican"
+"195","u 28","Kelsey","2014-12",3.75,"Elite",4,1,"r 1694","Thai Cuisine",4,"Las Vegas","NV",114,"601 N Nellis Blvd
+Sunrise
+Las Vegas, NV 89110","Thai"
+"196","u 29","Isaac","2010-07",3.74,"Elite",3,3,"r 2619","Fuddruckers",3.5,"Las Vegas","NV",151,"4195 South Grand Canyon Dr
+Ste 101
+Spring Valley
+Las Vegas, NV 89147","Burgers, American (Traditional)"
+"197","u 29","Isaac","2010-07",3.74,"Elite",3,1,"r 3887","Noodle Asia",3.5,"Las Vegas","NV",808,"The Venetian
+3355 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109","Noodles, Chinese"
+"198","u 29","Isaac","2010-07",3.74,"Elite",3,5,"r 2043","Tom Colicchio's Craftsteak",4,"Las Vegas","NV",1842,"MGM Grand Hotel and Casino
+3799 Las Vegas Boulevard South
+Eastside
+Las Vegas, NV 89109","Steakhouses, American (New)"
+"199","u 30","Margo","2013-08",3.8,"Elite",3,3,"r 1947","Bayside Buffet at Mandalay Bay",3,"Las Vegas","NV",820,"Mandalay Bay Hotel & Casino
+3950 S Las Vegas Blvd
+The Strip
+Las Vegas, NV 89109","Casinos, Arts & Entertainment, American (Traditional), Buffets"
+"200","u 30","Margo","2013-08",3.8,"Elite",3,4,"r 1915","Five50 Pizza Bar",4,"Las Vegas","NV",467,"ARIA Resort & Casino
+3730 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109","Pizza"
+"201","u 30","Margo","2013-08",3.8,"Elite",3,2,"r 774","Red Sushi",2.5,"Las Vegas","NV",127,"Golden Nugget
+129 E Fremont St
+Downtown
+Las Vegas, NV 89101","Sushi Bars, Japanese"
+"202","u 31","J","2009-04",3.09,"Elite",3,5,"r 4392","Joel Robuchon",4.5,"Las Vegas","NV",762,"MGM Grand Hotel and Casino
+3799 Las Vegas Boulevard South
+Eastside
+Las Vegas, NV 89109","French"
+"203","u 31","J","2009-04",3.09,"Elite",3,5,"r 1538","N9NE Steakhouse",4,"Las Vegas","NV",779,"Palms Casino Resort
+4321 W Flamingo Rd
+Las Vegas, NV 89103","American (Traditional), Steakhouses, Seafood"
+"204","u 31","J","2009-04",3.09,"Elite",3,4,"r 4155","Twist by Pierre Gagnaire",4.5,"Las Vegas","NV",217,"Mandarin Oriental
+3752 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89158","American (New), French"
+"205","u 32","Daniel","2010-07",4.31,"Elite",20,3,"r 1293","Tony Roma's",2,"Las Vegas","NV",175,"200 E Fremont St
+Downtown
+Las Vegas, NV 89101","Steakhouses, American (Traditional), Barbeque"
+"206","u 32","Daniel","2010-07",4.31,"Elite",20,5,"r 1445","Oyshi Sushi",4,"Las Vegas","NV",333,"7293 W Sahara Ave
+Westside
+Las Vegas, NV 89117","Sushi Bars, Japanese"
+"207","u 32","Daniel","2010-07",4.31,"Elite",20,5,"r 85","Lola's A Louisiana Kitchen",4,"Las Vegas","NV",226,"1220 N Town Center Dr
+Summerlin
+Las Vegas, NV 89144","Cajun/Creole"
+"208","u 32","Daniel","2010-07",4.31,"Elite",20,5,"r 4229","House of Pizza",4,"Las Vegas","NV",98,"9430 W Lake Mead Blvd
+Ste 9
+Summerlin
+Las Vegas, NV 89134","Pizza"
+"209","u 32","Daniel","2010-07",4.31,"Elite",20,3,"r 2901","L & L Hawaiian Barbecue",3,"Las Vegas","NV",75,"1900 N Buffalo Dr
+Las Vegas, NV 89128","Barbeque, Hawaiian"
+"210","u 32","Daniel","2010-07",4.31,"Elite",20,4,"r 1389","Makai Pacific Island Grill",4.5,"Las Vegas","NV",209,"5165 S Fort Apache Rd
+Ste 150
+Spring Valley
+Las Vegas, NV 89148","Asian Fusion, Hawaiian, Barbeque"
+"211","u 32","Daniel","2010-07",4.31,"Elite",20,4,"r 75","Great Links Brewhouse & Grill",4,"Las Vegas","NV",290,"6010 W Craig Rd
+Ste 110
+Northwest
+Las Vegas, NV 89130","Burgers, Hot Dogs, Sandwiches"
+"212","u 32","Daniel","2010-07",4.31,"Elite",20,3,"r 809","Samurai Sam's",2.5,"Las Vegas","NV",28,"7550 W Lake Mead Blvd
+Ste 8
+Las Vegas, NV 89128","Japanese"
+"213","u 32","Daniel","2010-07",4.31,"Elite",20,5,"r 4007","Jun's Korean Restaurant",3.5,"Las Vegas","NV",217,"8826 S Eastern Ave
+Ste 113
+Las Vegas, NV 89123","Korean"
+"214","u 32","Daniel","2010-07",4.31,"Elite",20,4,"r 2901","L & L Hawaiian Barbecue",3,"Las Vegas","NV",75,"1900 N Buffalo Dr
+Las Vegas, NV 89128","Barbeque, Hawaiian"
+"215","u 32","Daniel","2010-07",4.31,"Elite",20,4,"r 3966","Benihana",3.5,"Las Vegas","NV",325,"3000 Paradise Rd
+Eastside
+Las Vegas, NV 89109","Teppanyaki, Japanese"
+"216","u 32","Daniel","2010-07",4.31,"Elite",20,4,"r 2463","Liu's Kitchen",4,"Las Vegas","NV",41,"7377 S Jones Blvd
+Southwest
+Las Vegas, NV 89139","Chinese"
+"217","u 32","Daniel","2010-07",4.31,"Elite",20,4,"r 1478","Todai Restaurant",3.5,"Las Vegas","NV",337,"Miracle Mile
+3663 Las Vegas Blvd S
+Eastside
+Las Vegas, NV 89109","Buffets, Japanese"
+"218","u 32","Daniel","2010-07",4.31,"Elite",20,5,"r 4245","Island Flavor ",4.5,"Las Vegas","NV",896,"8090 S Durango Dr
+Ste 103
+Southwest
+Las Vegas, NV 89113","Hawaiian"
+"219","u 32","Daniel","2010-07",4.31,"Elite",20,5,"r 1262","Island Sushi & Grill",4,"Las Vegas","NV",728,"9400 S Eastern Ave
+Ste 103
+Southeast
+Las Vegas, NV 89123","Sushi Bars, Hawaiian"
+"220","u 32","Daniel","2010-07",4.31,"Elite",20,3,"r 145","Da Sheng Chinese Cuisine",3.5,"Las Vegas","NV",49,"Chinatown Mall
+4255 W Spring Mountain Rd
+Chinatown
+Las Vegas, NV 89102","Chinese"
+"221","u 32","Daniel","2010-07",4.31,"Elite",20,4,"r 3979","Makino",3.5,"Las Vegas","NV",215,"775 S Grand Central Pkwy
+Ste 1301
+Downtown
+Las Vegas, NV 89106","Buffets, Japanese"
+"222","u 32","Daniel","2010-07",4.31,"Elite",20,5,"r 528","Wo Fat",3.5,"Las Vegas","NV",116,"3700 E Desert Inn Rd
+Ste 1
+Eastside
+Las Vegas, NV 89121","Chinese"
+"223","u 32","Daniel","2010-07",4.31,"Elite",20,5,"r 650","Wok My World",4,"Las Vegas","NV",44,"2775 S Nellis Blvd
+Sunrise
+Las Vegas, NV 89121","Chinese"
+"224","u 32","Daniel","2010-07",4.31,"Elite",20,5,"r 2829","Giovanni's",4,"Las Vegas","NV",19,"7380 S Eastern Ave
+Southeast
+Las Vegas, NV 89123",", Pizza, Italian"
+"225","u 33","Gerren","2014-01",3.18,"Elite",5,4,"r 4050","Pink Taco",3.5,"Las Vegas","NV",818,"Hard Rock Hotel & Casino
+4455 Paradise Rd
+Eastside
+Las Vegas, NV 89169","Mexican"
+"226","u 33","Gerren","2014-01",3.18,"Elite",5,4,"r 4549","Serendipity 3",3,"Las Vegas","NV",3781,"Caesars Palace Las Vegas Hotel And Casino
+3570 Las Vegas Boulevard South
+The Strip
+Las Vegas, NV 89109","Food, Desserts, American (Traditional)"
+"227","u 33","Gerren","2014-01",3.18,"Elite",5,5,"r 587","SW Steakhouse",4,"Las Vegas","NV",842,"3131 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109","Steakhouses"
+"228","u 33","Gerren","2014-01",3.18,"Elite",5,4,"r 3379","Nobu",4,"Las Vegas","NV",881,"Hard Rock Hotel & Casino
+4455 Paradise Rd
+Eastside
+Las Vegas, NV 89169","Sushi Bars, Japanese"
+"229","u 33","Gerren","2014-01",3.18,"Elite",5,4,"r 4636","Burger Bar",4,"Las Vegas","NV",2266,"Mandalay Bay Hotel & Casino
+3930 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109","Burgers, Bars, American (New), Nightlife"
+"230","u 34","Becca","2012-09",4.2,"non-Elite",11,3,"r 4550","Gonzalez Y Gonzalez Restaurant",3.5,"Las Vegas","NV",395,"3790 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109","Mexican"
+"231","u 34","Becca","2012-09",4.2,"non-Elite",11,5,"r 999","Gordon Ramsay BurGR",4,"Las Vegas","NV",4620,"Planet Hollywood Las Vegas Resort & Casino
+3667 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109","Burgers"
+"232","u 34","Becca","2012-09",4.2,"non-Elite",11,3,"r 4336","Chayo Mexican Kitchen + Tequila Bar",3.5,"Las Vegas","NV",808,"3545 S Las Vegas Blvd
+The Strip
+Las Vegas, NV 89109","Bars, Mexican, Nightlife"
+"233","u 34","Becca","2012-09",4.2,"non-Elite",11,5,"r 35","Cafe Americano",3.5,"Las Vegas","NV",95,"3570 S Las Vegas Blvd
+The Strip
+Las Vegas, NV 89109","American (New), Latin American"
+"234","u 34","Becca","2012-09",4.2,"non-Elite",11,5,"r 999","Gordon Ramsay BurGR",4,"Las Vegas","NV",4620,"Planet Hollywood Las Vegas Resort & Casino
+3667 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109","Burgers"
+"235","u 34","Becca","2012-09",4.2,"non-Elite",11,4,"r 6","Planet Dailies",3,"Las Vegas","NV",575,"3667 Las Vegas Blvd. S.
+The Strip
+Las Vegas, NV 89109","American (Traditional)"
+"236","u 34","Becca","2012-09",4.2,"non-Elite",11,5,"r 3410","Hash House A Go Go",4,"Las Vegas","NV",3577,"The LINQ Hotel & Casino
+3535 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109","Breakfast & Brunch, American (New)"
+"237","u 34","Becca","2012-09",4.2,"non-Elite",11,4,"r 695","Andrea's",4,"Las Vegas","NV",318,"3131 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109","Bars, Asian Fusion, Nightlife"
+"238","u 34","Becca","2012-09",4.2,"non-Elite",11,5,"r 2372","Grand Lux Cafe",4,"Las Vegas","NV",2148,"The Venetian Hotel & Casino
+3355 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109","Food, Desserts, American (Traditional)"
+"239","u 34","Becca","2012-09",4.2,"non-Elite",11,5,"r 1506","Mesa Grill",4,"Las Vegas","NV",2643,"Caesars Palace Las Vegas Hotel And Casino
+3570 Las Vegas Boulevard South
+The Strip
+Las Vegas, NV 89109","Southern"
+"240","u 34","Becca","2012-09",4.2,"non-Elite",11,5,"r 316","Earl of Sandwich",4.5,"Las Vegas","NV",4687,"Planet Hollywood Resort & Casino
+3667 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109","Sandwiches"
+"241","u 35","A","2014-10",3.12,"Elite",5,2,"r 4264","Sin City Wings",3.5,"Las Vegas","NV",43,"2025 E Sahara Ave
+Westside
+Las Vegas, NV 89104","Food, Chicken Wings, Food Trucks"
+"242","u 35","A","2014-10",3.12,"Elite",5,5,"r 4151","Archi's Thai Cafe",4,"Las Vegas","NV",379,"9350 W Sahara Ave
+Westside
+Las Vegas, NV 89117","Thai"
+"243","u 35","A","2014-10",3.12,"Elite",5,5,"r 3160","Napoli Pizzeria",3,"Las Vegas","NV",289,"4760 W Sahara Ave
+Ste 11
+Westside
+Las Vegas, NV 89102","Pizza"
+"244","u 35","A","2014-10",3.12,"Elite",5,5,"r 2312","Sweet Tomatoes",3.5,"Las Vegas","NV",182,"2080 N Rainbow Blvd
+Las Vegas, NV 89108","Vegetarian, Buffets, Salad"
+"245","u 35","A","2014-10",3.12,"Elite",5,3,"r 2933","Strip N Dip Chicken Strips",4.5,"Las Vegas","NV",632,"873 S Rainbow Blvd
+Westside
+Las Vegas, NV 89145","Chicken Shop, Fast Food, Comfort Food"
+"246","u 36","Royi","2012-05",4.48,"Elite",12,5,"r 3294","Stick E Rice",4,"Las Vegas","NV",55,"2544 E Desert Inn Rd
+Eastside
+Las Vegas, NV 89121","Thai"
+"247","u 36","Royi","2012-05",4.48,"Elite",12,4,"r 1234","Thai St Cafe",4,"Las Vegas","NV",434,"3137 Industrial Rd
+Las Vegas, NV 89109","Thai"
+"248","u 36","Royi","2012-05",4.48,"Elite",12,5,"r 3784","Parsley Modern Mediterranean",4,"Las Vegas","NV",258,"6420 S Pecos Rd
+Southeast
+Las Vegas, NV 89120","Vegetarian, Mediterranean, Vegan"
+"249","u 36","Royi","2012-05",4.48,"Elite",12,5,"r 1931","Mint Indian Bistro",4,"Las Vegas","NV",755,"730 E Flamingo Rd
+Ste 10
+Eastside
+Las Vegas, NV 89119","Indian"
+"250","u 36","Royi","2012-05",4.48,"Elite",12,5,"r 1640","Yama Sushi",4,"Las Vegas","NV",1474,"1350 E Flamingo Rd
+Ste 18
+Eastside
+Las Vegas, NV 89119","Sushi Bars"
+"251","u 36","Royi","2012-05",4.48,"Elite",12,4,"r 1836","Pho Kim Long",3.5,"Las Vegas","NV",2142,"4029 Spring Mountain Rd
+Chinatown
+Las Vegas, NV 89102","Vietnamese, Chinese"
+"252","u 36","Royi","2012-05",4.48,"Elite",12,4,"r 2908","The Fat Greek",4,"Las Vegas","NV",335,"4001 S Decatur Blvd
+Ste 34
+Las Vegas, NV 89103","Greek, Mediterranean"
+"253","u 36","Royi","2012-05",4.48,"Elite",12,5,"r 2173","The Olive Mediterranean Grill",4,"Las Vegas","NV",145,"3850 E Sunset Rd
+Ste D
+Southeast
+Las Vegas, NV 89120","Hookah Bars, Bars, Mediterranean, Nightlife"
+"254","u 36","Royi","2012-05",4.48,"Elite",12,5,"r 2543","Taco Y Taco",4,"Las Vegas","NV",431,"3430 E Tropicana Ave
+Eastside
+Las Vegas, NV 89121","Vegetarian, Mexican"
+"255","u 36","Royi","2012-05",4.48,"Elite",12,5,"r 41","Sushi Hiro",5,"Las Vegas","NV",92,"9460 S Eastern Ave
+Ste 130
+Southeast
+Las Vegas, NV 89123","Sushi Bars, Japanese"
+"256","u 36","Royi","2012-05",4.48,"Elite",12,4,"r 4459","La Flor Es Michoacan",4.5,"Las Vegas","NV",10,"4161 S Eastern Ave
+Eastside
+Las Vegas, NV 89119","Food, Ice Cream & Frozen Yogurt, Mexican"
+"257","u 36","Royi","2012-05",4.48,"Elite",12,5,"r 3633","Original Lindo Michoacan",4,"Las Vegas","NV",725,"2655 E Desert Inn Rd
+Eastside
+Las Vegas, NV 89121","Mexican"
+"258","u 37","Sarah","2014-09",3.57,"Elite",8,4,"r 1366","Made LV American Tavern",3.5,"Las Vegas","NV",200,"450 S Rampart Blvd
+Ste 120
+Westside
+Las Vegas, NV 89145","Burgers, American (Traditional), American (New)"
+"259","u 37","Sarah","2014-09",3.57,"Elite",8,1,"r 1660","Libre Mexican Cantina",4,"Las Vegas","NV",150,"11011 W Charleston Blvd
+South Summerlin
+Las Vegas, NV 89135","Mexican"
+"260","u 37","Sarah","2014-09",3.57,"Elite",8,5,"r 4325","Mercadito",3.5,"Las Vegas","NV",415,"Red Rock Casino
+11011 W Charleston Blvd
+South Summerlin
+Las Vegas, NV 89135","Mexican, Bars, Cocktail Bars, Nightlife"
+"261","u 37","Sarah","2014-09",3.57,"Elite",8,4,"r 1603","Daily Kitchen Eatery and Rotisserie",3.5,"Las Vegas","NV",126,"3645 S Town Center Dr
+Ste 102
+South Summerlin
+Las Vegas, NV 89135","Breakfast & Brunch, American (New)"
+"262","u 37","Sarah","2014-09",3.57,"Elite",8,4,"r 1603","Daily Kitchen Eatery and Rotisserie",3.5,"Las Vegas","NV",126,"3645 S Town Center Dr
+Ste 102
+South Summerlin
+Las Vegas, NV 89135","Breakfast & Brunch, American (New)"
+"263","u 37","Sarah","2014-09",3.57,"Elite",8,1,"r 1081","Nacho Daddy Henderson",3.5,"Las Vegas","NV",606,"9925 S Eastern Ave
+Anthem
+Las Vegas, NV 89183","Breakfast & Brunch, American (Traditional), Mexican"
+"264","u 37","Sarah","2014-09",3.57,"Elite",8,4,"r 3952","The Protein Source",4,"Las Vegas","NV",171,"4220 S Grand Canyon Dr
+Ste 8
+Spring Valley
+Las Vegas, NV 89147","Food, Juice Bars & Smoothies, American (New)"
+"265","u 37","Sarah","2014-09",3.57,"Elite",8,3,"r 3774","Carson Kitchen",4.5,"Las Vegas","NV",1093,"124 S 6th St
+Ste 100
+Downtown
+Las Vegas, NV 89101","American (New)"
+"266","u 38","Heather","2008-01",3.65,"non-Elite",6,5,"r 143","Nine Fine Irishmen",4,"Las Vegas","NV",823,"New York New York Las Vegas Hotel And Casino
+3790 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109","Pubs, Bars, Nightlife, Irish"
+"267","u 38","Heather","2008-01",3.65,"non-Elite",6,2,"r 3409","McFadden's",2.5,"Las Vegas","NV",52,"Rio Hotel and Casino
+3700 W Flamingo Rd
+Las Vegas, NV 89103","Bars, Pubs, Nightlife, American (New), Karaoke"
+"268","u 38","Heather","2008-01",3.65,"non-Elite",6,5,"r 2043","Tom Colicchio's Craftsteak",4,"Las Vegas","NV",1842,"MGM Grand Hotel and Casino
+3799 Las Vegas Boulevard South
+Eastside
+Las Vegas, NV 89109","Steakhouses, American (New)"
+"269","u 38","Heather","2008-01",3.65,"non-Elite",6,1,"r 1243","MGM Grand Buffet",2.5,"Las Vegas","NV",830,"MGM Grand
+3799 Las Vegas Blvd S
+Eastside
+Las Vegas, NV 89109","American (Traditional), Buffets"
+"270","u 38","Heather","2008-01",3.65,"non-Elite",6,4,"r 850","Marrakech Mediterranean Restaurant",4.5,"Las Vegas","NV",326,"3900 Paradise Rd
+Ste Y
+Eastside
+Las Vegas, NV 89169","Mediterranean, Middle Eastern, Moroccan"
+"271","u 38","Heather","2008-01",3.65,"non-Elite",6,4,"r 2282","MORE The Buffet at Luxor",2.5,"Las Vegas","NV",538,"Luxor Las Vegas
+3900 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109","Buffets"
+"272","u 39","Ricki","2014-09",1.71,"Elite",4,2,"r 2486","Bahama Breeze",4,"Las Vegas","NV",558,"375 Hughes Center Dr
+Eastside
+Las Vegas, NV 89109","Seafood, Bars, Latin American, Nightlife"
+"273","u 39","Ricki","2014-09",1.71,"Elite",4,1,"r 71","Toros Cantina & Gaming",3.5,"Las Vegas","NV",221,"11760 W Charleston Blvd
+Summerlin
+Las Vegas, NV 89138","Mexican"
+"274","u 39","Ricki","2014-09",1.71,"Elite",4,5,"r 4817","Frankie's Pizza",5,"Las Vegas","NV",29,"8505 S Eastern Ave
+Southeast
+Las Vegas, NV 89123","Pizza"
+"275","u 39","Ricki","2014-09",1.71,"Elite",4,1,"r 3776","Bacchanal Buffet",4,"Las Vegas","NV",5216,"Caesars Palace Las Vegas Hotel And Casino
+3570 Las Vegas Boulevard South
+The Strip
+Las Vegas, NV 89109","Buffets"
+"276","u 40","Ting","2015-08",3.67,"Elite",3,3,"r 317","Fulton Street Food Hall",3.5,"Las Vegas","NV",85,"Harrah's Las Vegas Hotel Casino
+3475 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109","Cafes, Arts & Entertainment, Casinos, Japanese"
+"277","u 40","Ting","2015-08",3.67,"Elite",3,4,"r 77","Picasso",4.5,"Las Vegas","NV",682,"Bellagio Las Vegas
+3600 S Las Vegas Blvd
+The Strip
+Las Vegas, NV 89109","Bars, Nightlife, French"
+"278","u 40","Ting","2015-08",3.67,"Elite",3,4,"r 2138","Oyster Bar",4.5,"Las Vegas","NV",1666,"Palace Station Hotel & Casino
+2411 W Sahara Ave
+Las Vegas, NV 89102","Nightlife, Seafood, Bars"
+"279","u 41","Brian","2008-09",3.85,"Elite",9,4,"r 2043","Tom Colicchio's Craftsteak",4,"Las Vegas","NV",1842,"MGM Grand Hotel and Casino
+3799 Las Vegas Boulevard South
+Eastside
+Las Vegas, NV 89109","Steakhouses, American (New)"
+"280","u 41","Brian","2008-09",3.85,"Elite",9,5,"r 1506","Mesa Grill",4,"Las Vegas","NV",2643,"Caesars Palace Las Vegas Hotel And Casino
+3570 Las Vegas Boulevard South
+The Strip
+Las Vegas, NV 89109","Southern"
+"281","u 41","Brian","2008-09",3.85,"Elite",9,5,"r 2511","Olives",4,"Las Vegas","NV",1480,"Bellagio Las Vegas
+3600 S Las Vegas Blvd
+The Strip
+Las Vegas, NV 89109","Bars, Mediterranean, Nightlife"
+"282","u 41","Brian","2008-09",3.85,"Elite",9,5,"r 3896","Bouchon at The Venetian",4,"Las Vegas","NV",3134,"3355 Las Vegas Blvd S
+Venezia Tower, 10th floor
+The Strip
+Las Vegas, NV 89109","Event Planning & Services, Breakfast & Brunch, Venues & Event Spaces, French"
+"283","u 41","Brian","2008-09",3.85,"Elite",9,4,"r 111","Enoteca San Marco",3.5,"Las Vegas","NV",248,"The Venetian
+3355 Las Vegas Blvd S
+Westside
+Las Vegas, NV 89109",", Italian"
+"284","u 41","Brian","2008-09",3.85,"Elite",9,4,"r 391","BLT Burger",3.5,"Las Vegas","NV",1089,"The Mirage Hotel & Casino
+3400 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109","Burgers"
+"285","u 41","Brian","2008-09",3.85,"Elite",9,3,"r 4731","The Buffet",3.5,"Las Vegas","NV",3546,"Wynn Las Vegas
+3131 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109","Buffets"
+"286","u 41","Brian","2008-09",3.85,"Elite",9,5,"r 67","Rao's",3.5,"Las Vegas","NV",652,"Caesars Palace Las Vegas Hotel And Casino
+3570 Las Vegas Boulevard South
+The Strip
+Las Vegas, NV 89109",", Italian"
+"287","u 41","Brian","2008-09",3.85,"Elite",9,3,"r 3520","Nobhill Tavern by Michael Mina",4,"Las Vegas","NV",326,"3799 Las Vegas Blvd S
+Eastside
+Las Vegas, NV 89109","Bars, American (New), Nightlife"
+"288","u 42","Michelle","2015-09",3,"Elite",3,1,"r 4287","Little Caesar's Pizza",2,"Las Vegas","NV",9,"2272 S Nellis Blvd
+Sunrise
+Las Vegas, NV 89104","Pizza"
+"289","u 42","Michelle","2015-09",3,"Elite",3,3,"r 2085","Chipotle Mexican Grill",3,"Las Vegas","NV",29,"111 N Nellis Blvd
+Sunrise
+Las Vegas, NV 89110","Fast Food, Mexican"
+"290","u 42","Michelle","2015-09",3,"Elite",3,5,"r 2626","Olive Garden Italian Restaurant",3.5,"Las Vegas","NV",81,"80 N. Nellis Blvd.
+Sunrise
+Las Vegas, NV 89110","Bars, Salad, Wine Bars, Nightlife, Italian"
+"291","u 43","Taylor","2014-06",4.29,"Elite",7,5,"r 2108","Javier's",4,"Las Vegas","NV",755,"ARIA Resort & Casino
+3730 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109","Bars, Mexican, Nightlife"
+"292","u 43","Taylor","2014-06",4.29,"Elite",7,3,"r 683","Amore Taste of Chicago",4,"Las Vegas","NV",462,"3945 S Durango Dr
+Spring Valley
+Las Vegas, NV 89147",", Pizza, Italian"
+"293","u 43","Taylor","2014-06",4.29,"Elite",7,5,"r 999","Gordon Ramsay BurGR",4,"Las Vegas","NV",4620,"Planet Hollywood Las Vegas Resort & Casino
+3667 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109","Burgers"
+"294","u 43","Taylor","2014-06",4.29,"Elite",7,5,"r 1790","Nove Italiano",4,"Las Vegas","NV",400,"Palms Casino Resort
+4321 W Flamingo Rd
+Las Vegas, NV 89103",", Italian"
+"295","u 43","Taylor","2014-06",4.29,"Elite",7,5,"r 2852","Pizza Rock",4,"Las Vegas","NV",1358,"201 N 3rd St
+Downtown
+Las Vegas, NV 89101","Pizza"
+"296","u 43","Taylor","2014-06",4.29,"Elite",7,5,"r 4801","Grimaldi's Pizzeria",4,"Las Vegas","NV",561,"9595 S Eastern Ave
+Southeast
+Las Vegas, NV 89123","Pizza"
+"297","u 43","Taylor","2014-06",4.29,"Elite",7,1,"r 1448","Angelina's Pizzeria - Eastern",2.5,"Las Vegas","NV",66,"5025 S Eastern Ave
+Southeast
+Las Vegas, NV 89119","Pizza"
+"298","u 44","Sammy","2011-01",3.85,"non-Elite",4,3,"r 4205","Tahiti Joe's",2.5,"Las Vegas","NV",39,"7200 Las Vegas Blvd S
+Southeast
+Las Vegas, NV 89119","American (Traditional)"
+"299","u 44","Sammy","2011-01",3.85,"non-Elite",4,3,"r 3101","Market Street Cafe",3.5,"Las Vegas","NV",515,"California Hotel
+12 East Ogden Ave
+Downtown
+Las Vegas, NV 89101","American (Traditional), Hawaiian"
+"300","u 44","Sammy","2011-01",3.85,"non-Elite",4,4,"r 4017","Triple 7 Restaurant & Microbrewery",3.5,"Las Vegas","NV",411,"Main Street Station Hotel
+200 N Main St
+Las Vegas, NV 89101","Food, American (Traditional), Breweries"
