@@ -4,13 +4,16 @@ library(dplyr)
 library(shinydashboard)
 
 # Get the raw data
-review = read.csv("data/data.csv")[,-1]
+
+options(show.error.messages = T)
+
+review =  read.csv("data/c.csv")[,-1]
 
 
 
 shinyServer(function(input, output){
   # --------THE INPUTS----------
-  
+  output$user <- renderText({levels(review$user_id)})
   # Input user_id
   
   # --------MANIPULATE THE DATA------
@@ -22,7 +25,7 @@ shinyServer(function(input, output){
       userOne = review[,c("user_id","business_id","review_star")]
       userAvg= userOne%>%
        group_by(user_id,business_id)%>%
-       summarise(avg_star = mean(review_star))
+       dplyr::summarise(avg_star = mean(review_star))
       
       # create the matrix
       rating_matrix  = with(userAvg, {
@@ -74,8 +77,9 @@ shinyServer(function(input, output){
     # get the business_id of 6 recommendation
     recom = names(head(pre_score[order(-pre_score[,input$pick_user]),],6))
     Predict_rating = head(pre_score[order(-pre_score[,input$pick_user]),],6)
+    
     recomInfo = review[review$business_id%in% recom ,][,c(8:15)]
-    recomInfo= recomInfo[!duplicated(recomInfo),]
+    recomInfo= recomInfo[!duplicated(recomInfo$business_id),]
     recomInfo = cbind(Predict_rating,recomInfo)
     recomInfo
   })
