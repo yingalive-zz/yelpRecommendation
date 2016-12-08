@@ -8,7 +8,7 @@ body = dashboardBody(
            box(width=NULL, 
                  selectInput("pick_user", label="User ID:",
                              selected = "u1", multiple =F,
-                             choices = levels(review$user_id))
+                             choices = paste("u",1:2059))
                
            ),
            box(width=NULL,
