@@ -7,7 +7,7 @@ library(shinydashboard)
 
 options(show.error.messages = T)
 
-review =  read.csv("data/c.csv")[,-1]
+review =  read.csv("c.csv")[,-1]
 
 
 
